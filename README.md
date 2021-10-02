@@ -4,7 +4,8 @@ This project has a study purpose.
 The main goal of this project is get all the informations of a movie on an API searching only for the name of the movie.
 
 Development Language: Python
-Libraries: requests and json
+
+Python Libraries: requests and json
 
 First step is define a function to get the request of an API to parse and show as a json response, making a Try-Exception to catch some error in the core of this function.
 
